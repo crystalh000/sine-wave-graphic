@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=
+comment1.target=Circle()
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=page
+comment4.target=void\ draw(java.awt.Graphics)
+numComments=5
